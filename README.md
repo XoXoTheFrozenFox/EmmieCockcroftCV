@@ -1,3 +1,3 @@
 # EmmieCockcroftCV
 # Link of website
-- (link)
+- https://xoxothefrozenfox.github.io/EmmieCockcroftCV/Index.html
